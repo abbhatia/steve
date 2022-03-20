@@ -1,2 +1,8 @@
 **/target/
 **/.DS_Store
+metals.sbt
+sbt.json
+target
+.bloop
+.metals
+.vscode
