@@ -57,14 +57,29 @@ These are the projects of my viewers who are following along (the ones I've foun
 - Tests for hashing
 - New format of hashes
 
-## Episode 8
+## [Episode 8](https://www.youtube.com/watch?v=4y-zvp8TKYU)
 
 - Building client front-end
 
+## [Episode 9](https://www.youtube.com/watch?v=GNleUFwgzWc)
+
+- Initial support for streaming responses
+
+## [Episode 10](...)
+
+- Error handling in streaming
+- Fixing stream safety (issue from episode 9)
+- Fixing tests after streaming changes
+- Minor refactoring in streaming
+
 ## Episode ???
 
-- Pretty, streamed output
+- Clean up streaming
+- (further) Extract logic from protocol
+- Add messages to be streamed
+- Pretty, streamed output?
 - Custom build file format
+
 - Tagging images
 - Actual E2E tests
 - More commands
